@@ -1,0 +1,52 @@
+# LOG
+
+
+## Implemented
+
+### 18/07/2015
+* Player enemy colision dection
+* Enemy wave system management ( 3 waves )
+* Added custom font
+* Added player lives function
+
+### 19/07/2015
+* Shield system + animation
+* Engine animation (up, down, left, right)
+* Score system display
+* Player lives left display
+* Fixed some representation bugs
+
+### 20/07/2015
+* Power-up class finished (Extra life, Shield, Fire Power)
+* Added 4 new types of Fire Power 
+* Added 4 new types of enemies
+* On hit effect projectile <--> enemy
+* Moved score from Game class to the player class
+
+### 21/07/2015
+* Added enemies that multiply when destroyed
+* Added exploading enemies animation
+* Added notification on power-up recovery
+* Calibrated the power-ups
+* Cleaned the code | Created the GameUpdateFunctions class
+
+### 22/07/2015
+* Added a range of colors for the explosion animation
+* Created the MyColor class with 6 custom colors
+* Added two new types of enemies (Green and Red)
+
+### 24/07/2015
+* Added Boss-Enemies type
+* Fixed a shield bug
+* Added SlowTime power-up + animation bar
+* Changed font
+* Added Game-Over screen
+
+### 25/07/2015
+* Added sounds
+* Reformated the game structure
+* Added auto-pilot mode after Level 10
+
+Done for the moment
+
+

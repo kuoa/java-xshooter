@@ -1,0 +1,28 @@
+# xShooter
+My first attempt at a game project. Developing a top down shooter in **Java** using **AWT**.
+
+### Story
+The year is 2442. Earth is a distant memory. A lifeless, ravaged ball of dirt after the devastating strike of an alien super-race.
+
+Your are a Space Defence Fleet special ops pilot. You are the only hope in restoring peace by destroying the alien war base.
+
+Go to each colony, fight your way through all of the alien defences and end their reigns of terror.
+
+Come home safe pilot!
+
+
+### Download .jar
+[xShooter game](https://github.com/kuoa/xShooter/releases/download/Final/xShooter_final.jar)
+
+### Features
+
+* Unlimited levels
+* 12 different types of enemies
+* 4 types of power-ups
+* 4 types of ammo
+* 8 bit music and sound effects
+
+
+
+### Screenshot
+![xshooter](https://cloud.githubusercontent.com/assets/10695913/8891646/b8df8eea-3333-11e5-831b-9dac9125c72f.png)
