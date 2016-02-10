@@ -3,7 +3,7 @@ My first attempt at a game project. Developing a top down shooter in **Java** us
 
 
 ### Download .jar
-The jar is included in this repository :)
+[here](https://github.com/kuoa/java-xshooter/releases/download/1.0/xShooter.jar)
 
 ### Features
 
